@@ -16,7 +16,7 @@ _Heavily inspired by [Rayfield UI Library](https://github.com/shlexware/Rayfield
 ## 🔴Loading the library
 
 ```lua
-local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/Loco-CTO/UI-Library/main/VisionLibV2/source.lua'))()
+local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/Focuslol/Vision-UI-Lib-v2/main/Source.lua'))()
 ```
 
 ### Destroy the library
