@@ -2,8 +2,8 @@
 
 # Vision UI Lib v2
 
-- Desigend by Sius and BruhOOFBoi
-- Scripted by Loco_CTO
+- Desigend by keyrita7
+- Scripted by Focuslol
 
 _Heavily inspired by [Rayfield UI Library](https://github.com/shlexware/Rayfield/blob/main/Documentation.md)_
 
